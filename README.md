@@ -7,6 +7,7 @@
  experience.
  
  Methodology
+ 
  The methodology for this analysis is as follows:
 1. Traffic Light Simulation Setup:
    o APythonscript was developed to simulate a traffic
