@@ -5,6 +5,7 @@
  PageViews, Unique Visits, and Bounce Rate. The insights
  derived help in optimizing website performance and user
  experience.
+ 
  Methodology
  The methodology for this analysis is as follows:
 1. Traffic Light Simulation Setup:
